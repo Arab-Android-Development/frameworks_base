@@ -5589,6 +5589,12 @@ public final class Settings {
          * @hide
          */
         public static final String FOD_ICON = "fod_icon";
+        
+        /**
+         * Screen off fod
+         * @hide
+         */
+        public static final String FOD_GESTURE = "fod_gesture";
 
         /**
          * IMPORTANT: If you add a new public settings you also have to add it to
